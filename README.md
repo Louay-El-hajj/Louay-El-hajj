@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Louay+El Hajj!" alt="Louay El Hajj " /></a>
     </h1>
-<h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Backend Developer 👨‍💻</h3>
+<h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Fullstack Developer 👨‍💻</h3>
 
 
 <div align="center" style="display: block;">
@@ -16,17 +16,17 @@
 
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
-
-**`Hi, I am Karem Saad have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
+<!-- 
+**`Hi, I am Louay El Hajj  have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
 I am now at my third year of going into programming world and software engineering and in this journey I have discover many great concepts like OOP , solid principles , Generic with Abstract classes , Unit Testing and UML so I took all these concepts to do it with every language I work on such as C# , Dart , php , Python 
 In my last experience on big project I noticed the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and Repository Pattern, 
 All that to get the best experience for my clients or the team that i work with in our software 
 in the end at last period i working on frameworks Flutter And Laravel to elevate my skills on both of them and tools such as Git and keep going In my journey of learning
-`**
+`** -->
 
 </details>
 <hr>
-- 🌱 I’m currently learning **Flutter and Laravel Development**
+<!-- - 🌱 I’m currently learning **Flutter and Laravel Development** -->
 
 - 📫 How to reach me **louayhj99@gmail.com**
 
@@ -34,9 +34,8 @@ in the end at last period i working on frameworks Flutter And Laravel to elevate
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/louay-el-hajj-274b09264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-<a href="https://fb.com/banel.reshl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karem sd" height="30" width="40" /></a>
-<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
+<a href="https://https://linkedin.com/in/louay-el-hajj-274b09264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Louay El Hajj " height="30" width="40" /></a>
+<a href="https://https://www.instagram.com/louaihj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Louay.sd" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
