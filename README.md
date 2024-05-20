@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Louay+El Hajj!" alt="Louay El Hajj " /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F761&random=false&width=435&lines=Hello+%2C+world+!;I'm+Louay+El+Hajj+" alt="Typing SVG" /></a>
     </h1>
 <h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Fullstack Developer 👨‍💻</h3>
 
