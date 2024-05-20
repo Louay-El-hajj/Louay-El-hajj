@@ -34,8 +34,8 @@ in the end at last period i working on frameworks Flutter And Laravel to elevate
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
-<a href="https://https://linkedin.com/in/louay-el-hajj-274b09264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Louay El Hajj " height="30" width="40" /></a>
-<a href="https://https://www.instagram.com/louaihj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Louay.sd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/louay-el-hajj-274b09264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Louay El Hajj " height="30" width="40" /></a>
+<a href="https://instagram.com/louaihj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Louay.sd" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
