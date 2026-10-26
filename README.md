@@ -114,7 +114,7 @@ I sit where **quality, automation and AI** meet. I design test strategy, automat
 ## `>_ ls ~/projects --featured`
 
 <p align="center">
-  <img src="metrics/projects.svg" width="100%" alt="Featured projects" />
+  <img src="metrics/projects.svg" alt="Featured projects" />
 </p>
 
 ## `>_ git log --live`
@@ -137,15 +137,14 @@ I sit where **quality, automation and AI** meet. I design test strategy, automat
   </td>
   <td width="50%" valign="top" align="center">
     <img src="https://streak-stats.demolab.com?user=Louay-El-hajj&theme=dark&hide_border=false&border=30363d&background=0d1117&ring=39ff88&fire=a855f7&currStreakLabel=39ff88&sideLabels=e6edf3&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" width="100%" alt="GitHub streak" />
-    <img src="metrics/achievements.svg" width="100%" alt="GitHub achievements" />
   </td>
   </tr>
 </table>
 
 <details open>
-<summary><b>📊 Full metrics dashboard</b> <sub>(isometric calendar · languages · coding habits, refreshed daily)</sub></summary>
+<summary><b>📊 Full metrics dashboard</b> <sub>(isometric calendar · languages · activity, refreshed daily)</sub></summary>
 <p align="center">
-  <img src="metrics/overview.svg" width="100%" alt="Metrics overview" />
+  <img src="metrics/overview.svg" alt="Metrics overview" />
 </p>
 </details>
 
