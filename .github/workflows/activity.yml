@@ -18,10 +18,22 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Update README activity feed
-        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+          GH_USER: ${{ github.repository_owner }}
           MAX_LINES: 6
-          COMMIT_MSG: "chore(activity): refresh recent activity [skip ci]"
+        run: python scripts/update_activity.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && exit 0
+          git commit -am "chore(activity): refresh recent activity [skip ci]"
+          git push
