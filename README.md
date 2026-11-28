@@ -126,7 +126,7 @@ I sit where **quality, automation and AI** meet. I design test strategy, automat
 **⚡ Recent activity** <sub>(auto-updated every 6h)</sub>
 
 <!--START_SECTION:activity-->
-1. 🛠️ Worked on [Louay-El-hajj](https://github.com/Louay-El-hajj/Louay-El-hajj) <sub>· Nov 27, 2026</sub>
+1. 🛠️ Worked on [Louay-El-hajj](https://github.com/Louay-El-hajj/Louay-El-hajj) <sub>· Nov 28, 2026</sub>
 2. 🛠️ Worked on [estests-qa-automation](https://github.com/Louay-El-hajj/estests-qa-automation) <sub>· May 26, 2026</sub>
 3. 🛠️ Worked on [gym](https://github.com/Louay-El-hajj/gym) <sub>· Mar 06, 2025</sub>
 4. 🛠️ Worked on [hackathon-repo](https://github.com/Louay-El-hajj/hackathon-repo) <sub>· May 26, 2024</sub>
